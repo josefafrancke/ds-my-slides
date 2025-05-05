@@ -3,7 +3,7 @@
  *********************************************/
 
 /* neuefische */
-
+/*
 :root {
   --color-brand: #FF4A11 ; 
   --color-brand-dark: #252629 ; 
@@ -17,15 +17,16 @@
   --color-plot-blue: #33A5FF ; 
   --color-plot-green: #03AC13 ; 
 }
+*/
 
-/* spiced 
+/* spiced
 #2E016D - R46 G01 B109 (Dark Purple)
 #3F0097 - R63 G0 B151 (Purple)
 #FFADB9 - R255 G173 B185 (Pink)
 #7FD9E2 - R127 G217 B226 (Turquoise)
 #3BCCDA - R56 G284 B218 (Dark Turquoise)
 */
-/*
+
 :root {
   --color-brand: #FFADB9 ;
   --color-brand-dark: #2E016D  ; 
@@ -39,7 +40,7 @@
   --color-plot-blue: #3BCCDA ; 
   --color-plot-green: #03AC13 ; 
 } 
-*/
+
 
 /*****************************************************
  * Set FONT Information and styling of main elements *
